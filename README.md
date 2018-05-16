@@ -10,8 +10,7 @@
 
 
 ### 演示地址
-https://regret1537.fuzz.github.io
-
+https://regret1537.github.io
 
 ## 2018.5.11 更新
 - 移动端增加博客, 项目, 个人中心, 移动端和PC端共用API, 页面独立 
@@ -53,7 +52,7 @@ https://regret1537.fuzz.github.io
 类似演示地址其中 regret1537 为我的用户名
 
 
-现在 ${你的用户名}.github.io 就是你的个人博客了,例如 https://regret1537.fuzz.github.io
+现在 ${你的用户名}.github.io 就是你的个人博客了,例如 https://regret1537.github.io
 
 ### 获取Token
 
