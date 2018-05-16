@@ -10,7 +10,7 @@
 
 
 ### 演示地址
-[https://regret1537.fuzz.github.io][1]
+https://regret1537.fuzz.github.io
 
 
 ## 2018.5.11 更新
@@ -45,7 +45,7 @@
 
 ## 快速使用
 搭建博客只需2步
-1. 点击github头像旁边的 "+" 号 选择 "Import repository" 克隆地址填"https://github.com/GitHub-Laziji/GitHub-Laziji.github.io" (原作者地址(這邊感謝原創{GitHub-Laziji}無私分享)) 项目名填 "${你的用户名}.github.io" 
+1. 点击github头像旁边的 "+" 号 选择 "Import repository" 克隆地址填"https://github.com/GitHub-Laziji/GitHub-Laziji.github.io" (原作者地址(這  邊感謝原創{GitHub-Laziji}無私分享)) 项目名填 "${你的用户名}.github.io" 
 
 2. 克隆完成后 修改文件 /static/configuration.json 中的 "github-username" 为自己的github用户名
 
@@ -53,7 +53,7 @@
 类似演示地址其中 regret1537 为我的用户名
 
 
-现在 ${你的用户名}.github.io 就是你的个人博客了,例如[https://regret1537.github.io][1]
+现在 ${你的用户名}.github.io 就是你的个人博客了,例如 https://regret1537.fuzz.github.io
 
 ### 获取Token
 
